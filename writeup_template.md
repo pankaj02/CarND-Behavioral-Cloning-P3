@@ -128,7 +128,10 @@ To capture good driving behavior, I used data set provided by Udacity.
 
 I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to drive to center in case it's veered towards edges.These images show what a recovery looks like - 
 
+****Left Recovery
 ![Left to Center](./to_center/IMG/center_2018_02_28_22_02_32_511.jpg)
+
+****Right Recovery
 ![Right to Cener](./right_to_center/IMG/center_2018_03_02_09_19_36_183.jpg)
 
 Then I repeated this process on track two in order to get more data points.
